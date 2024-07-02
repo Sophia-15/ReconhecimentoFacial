@@ -1,5 +1,6 @@
 import cv2 
 from simple_facerec import SimpleFacerec
+from access import people
 
 sfr = SimpleFacerec()
 sfr.load_encoding_images("src/assets/")
