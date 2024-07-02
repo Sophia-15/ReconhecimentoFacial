@@ -1,0 +1,3 @@
+src/assets/*
+venv/
+src/__pycache__
